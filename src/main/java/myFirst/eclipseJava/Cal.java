@@ -12,6 +12,6 @@ public class Cal
     }
     public static int Sub( int x,int y )
     {
-        return x*y;
+        return x-y;
     }
 }
