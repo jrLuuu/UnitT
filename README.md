@@ -10,14 +10,14 @@ Critical steps
 * `Java with Maven`
 * `Configure`
 
-:::spoiler Before
+## Before
+
 ![](https://i.imgur.com/1oYsUi9.png)
 > ![](https://i.imgur.com/QIvAlRB.png)
-:::
 
-:::spoiler After
+## After
+
 ![](https://i.imgur.com/dW5Sufv.png)
 > ![](https://i.imgur.com/M2G7JkE.png)
-:::
 
 ###### tags: `Git`
